@@ -1,4 +1,4 @@
-Under The Boot
+M3trics
 ===============
 
 code example for http://dkublik.github.io/springboot-metrics-with-servo-and-aws-cloudwatch/
