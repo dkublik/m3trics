@@ -35,9 +35,11 @@ dependencyManagement {
 
 dependencies {
     compile('org.springframework.boot:spring-boot-starter-web')
-    compile('org.springframework.boot:spring-boot-starter-actuator')
 	compile('org.springframework.cloud:spring-cloud-starter-aws')
 	compile('org.springframework.cloud:spring-cloud-aws-actuator')
+    compile('org.springframework.cloud:spring-cloud-starter-hystrix')
+    compile('com.netflix.servo:servo-core')
+    compile('org.aspectj:aspectjweaver')
 }
 
 wrapper {
