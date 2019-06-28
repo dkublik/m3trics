@@ -1,7 +1,7 @@
 M3trics
 ===============
 
-code example for http://dkublik.github.io/springboot-metrics-with-servo-and-aws-cloudwatch/
+code example for https://dkublik.github.io/2017/10/28/springboot-metrics-with-servo-and-aws-cloudwatch.html
 
 
 ## Requirements
